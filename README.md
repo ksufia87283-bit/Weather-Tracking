@@ -56,3 +56,5 @@ Enter the name of a U.S. city
 Click "Get weather"
 
 A popup will display the weather details
+
+Author Sufia Khan
